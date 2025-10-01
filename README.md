@@ -113,7 +113,7 @@ Si consiglia di provare vari scenari, inclusi errori di input, per verificare la
 
 ## 📖 Note
 
-Questo progetto fa parte di un esercizio del corso **Scientific Computing with Python** di url [freeCodeCamp](https://www.freecodecamp.org/), utile per consolidare:
+Questo progetto fa parte di un esercizio del corso **Scientific Computing with Python** di [freeCodeCamp](https://www.freecodecamp.org/), utile per consolidare:
 
 * Manipolazione di stringhe
 * Gestione di eccezioni ed errori
