@@ -1,8 +1,3 @@
-Ecco un README.md strutturato in modo chiaro e accademico per il progetto **Arithmetic Formatter**:
-
----
-
-````markdown
 # 📐 Arithmetic Formatter
 
 ## Descrizione
@@ -118,14 +113,8 @@ Si consiglia di provare vari scenari, inclusi errori di input, per verificare la
 
 ## 📖 Note
 
-Questo progetto fa parte di un esercizio di programmazione introduttiva, utile per consolidare:
+Questo progetto fa parte di un esercizio del corso **Scientific Computing with Python** di url [freeCodeCamp](https://www.freecodecamp.org/), utile per consolidare:
 
 * Manipolazione di stringhe
 * Gestione di eccezioni ed errori
 * Allineamento di testo in output
-
-```
-
----
-
-```
